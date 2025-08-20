@@ -1,58 +1,54 @@
-# Portafolio de Muestras de Trabajo
+📂 Work Samples Portfolio
 
-Este repositorio contiene ejemplos de proyectos de consultoría que demuestran mi experiencia en **Gobernanza, Riesgo y Cumplimiento (GRC)**, **Ciberseguridad** y **Transformación Digital**.
+This repository contains consulting project samples that demonstrate my expertise in Governance, Risk & Compliance (GRC), Cybersecurity, and Digital Transformation.
 
-Para proteger la confidencialidad de mis clientes, todos los documentos presentados han sido **simulados** o **anonimizados**.
+🔒 All documents provided here are either simulated or anonymized to protect client confidentiality.
 
----
+📑 Project Samples
+1️⃣ Acquisition Due Diligence (Simulated Sample)
 
-📂 Portafolio de Muestras de Trabajo
+📄 View document:
+https://github.com/Lester1968/Consulting-Work-Samples/blob/main/CBC_BonApetit_DueDiligence_Simulado.pdf
 
-Este repositorio reúne ejemplos de proyectos de consultoría que ilustran mi experiencia en Gobernanza, Riesgo y Cumplimiento (GRC), Ciberseguridad y Transformación Digital.
+An example of my approach to due diligence in mergers and acquisitions (M&A). It highlights how I identify key risks and design mitigation strategies in complex business environments.
 
-🔒 Todos los documentos presentados son simulados o anonimizados para proteger la confidencialidad de los clientes reales.
+2️⃣ Post-Merger Security Integration Plan
 
-📑 Ejemplos de Proyectos
-1️⃣ Debida Diligencia de Adquisición (Muestra Simulada)
+📄 View document:
+https://github.com/Lester1968/Consulting-Work-Samples/blob/main/Post_MA_Security_Integration_Plan.pdf
 
-📄 Ver documento
+A 90-day roadmap to align governance and cybersecurity after an acquisition, minimizing operational and technical risks, and ensuring a smooth and secure transition.
 
-Ejemplo de mi enfoque en debida diligencia para procesos de fusiones y adquisiciones (M&A). Incluye identificación de riesgos clave y estrategias de mitigación en entornos de negocios complejos.
+3️⃣ ISO 27001 Compliance Audit Executive Summary
 
-2️⃣ Plan de Integración de Seguridad Post-Fusión
+📄 View document:
+https://github.com/Lester1968/Consulting-Work-Samples/blob/main/ISO27001_Compliance_Audit_Executive_Summary.pdf
 
-📄 Ver documento
+A high-level information security audit report, summarizing key findings and corrective action plans to support certification of an ISMS under ISO/IEC 27001.
 
-Hoja de ruta de 90 días para unificar la gobernanza y la ciberseguridad tras una adquisición. Su objetivo es minimizar riesgos operativos y técnicos, asegurando una transición segura y eficiente.
+4️⃣ AI Governance in Healthcare
 
-3️⃣ Resumen Ejecutivo de Auditoría de Cumplimiento ISO 27001
+📄 View document:
+https://github.com/Lester1968/Consulting-Work-Samples/blob/main/Work_Sample_Healthcare_AI_Governance.pdf
 
-📄 Ver documento
+A comparative analysis and governance framework proposal for the ethical and secure use of artificial intelligence in healthcare, focusing on risks, regulation, and responsible adoption.
 
-Informe ejecutivo de una auditoría de seguridad de la información. Resume hallazgos clave y un plan de acción correctiva para la certificación de un SGSI bajo el estándar ISO/IEC 27001.
+👨‍💻 About the Author
 
-4️⃣ Gobernanza de IA en el Sector Salud
+I am Lester Alfonso Dávila Escobedo, senior consultant in GRC, auditing, cybersecurity, and digital transformation with more than 30 years of international experience.
 
-📄 Ver documento
+🔗 LinkedIn Profile (visible URL):
+https://www.linkedin.com/in/lesteralfonsodavila/
 
-Análisis comparativo y propuesta de marco de gobernanza para el uso ético y seguro de la inteligencia artificial en salud, con enfoque en riesgos, regulación y ética tecnológica.
+⚖️ License
 
-👨‍💻 Acerca del Autor
+This repository is shared exclusively for demonstration purposes.
+❌ Commercial use or reproduction (in part or in full) is not allowed without prior authorization.
 
-Soy Lester Alfonso Dávila Escobedo, consultor senior en GRC, auditoría, ciberseguridad y transformación digital con más de 30 años de experiencia internacional.
+🚀 How to Use This Portfolio
 
-📌 Para conocer más sobre mi trayectoria profesional:
-🔗 Perfil de LinkedIn
+Explore the PDF files in the project samples section.
 
-⚖️ Licencia
+Review each case as an example of applied methodology.
 
-Este repositorio se comparte únicamente con fines demostrativos.
-❌ No está permitido su uso comercial ni su reproducción parcial o total sin autorización previa.
-
-🚀 Cómo usar este portafolio
-
-Explora los documentos PDF en la sección de ejemplos.
-
-Revisa cada caso como muestra de metodología aplicada.
-
-Conéctate en LinkedIn si deseas conversar sobre proyectos, colaboración o consultoría.
+Connect with me on LinkedIn if you would like to discuss projects, collaboration, or consulting opportunities.
